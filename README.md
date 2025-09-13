@@ -1,4 +1,4 @@
-This profile showcases contributions from my role at <strong>CloudWalk</strong>, where I worked from <strong>2022 to 2024</strong>.
+This profile showcases professional contributions from my role at <strong>CloudWalk</strong>, where I worked from <strong>2022 to 2024</strong>.
 
 Check my other profiles to see other personal and professional contributions:
 
