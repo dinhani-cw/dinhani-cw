@@ -2,7 +2,7 @@ This profile showcases contributions from my role at <strong>CloudWalk</strong>,
 
 <hr>
 
-To see personal and other professional contributions, check my other profiles:
+To see other personal and professional contributions, check my other profiles:
 <ul>
   <li><a href="https://github.com/dinhani">@dinhani</li>
   <li><a href="https://github.com/dinhani-id">@dinhani-id</li>
